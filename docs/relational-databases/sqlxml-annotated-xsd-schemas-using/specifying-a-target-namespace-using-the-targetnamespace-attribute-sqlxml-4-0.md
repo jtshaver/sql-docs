@@ -111,7 +111,7 @@ monikerRange: "=azuresqldb-current||>=sql-server-2016||>=sql-server-linux-2017||
      The directory path specified for the mapping schema (targetNamespace.xml) is relative to the directory where the template is saved. An absolute path also can be specified, for example:  
   
     ```  
-    mapping-schema="C:\MyDir\targetNamepsace.xml"  
+    mapping-schema="C:\MyDir\targetNamespace.xml"  
     ```  
   
 3.  Create and use the SQLXML 4.0 Test Script (Sqlxml4test.vbs) to execute the template.  
